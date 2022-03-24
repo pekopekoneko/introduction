@@ -4,9 +4,13 @@
 
 我的个人主页（在建）http://www.nekohub.site/
 
+以前的拙作 http://www.xiaoneko.site/
+
 韵雅文化研究院 yunyaculture.cn
 
 司马数慧 http://www.simashuhui.cn/
+
+部分网页工程涉密不公开
 
 ## 学术类
 
